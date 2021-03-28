@@ -1,0 +1,9 @@
+School\DeptModel\Teachers.class
+School\DeptModel\Classes.class
+School\DeptModel\Applicants.class
+School\DeptModel\Student.class
+School\DeptModel\Principal.class
+School\DeptModel\Courses.class
+School\DeptModel\NonTeachingStaff.class
+School\DeptModel\Person.class
+School\DeptModel\Staff.class
